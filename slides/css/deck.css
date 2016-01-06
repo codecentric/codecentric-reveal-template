@@ -1,0 +1,24 @@
+.reveal h2, .reveal h3 {
+    font-family: Panton, sans-serif;
+    text-transform: none;
+}
+
+.reveal div {
+    font-family: Panton, sans-serif;
+}
+
+.reveal .license {
+    font-size: 12pt;
+}
+
+.reveal section img.simpleImage {
+    border: 0;
+    background: transparent;
+}
+
+.reveal .footer {
+    position: absolute;
+    bottom: 1em;
+    left: 1em;
+    font-size: 0.5em;
+}
